@@ -38,6 +38,7 @@ const date = new Date(); // 현재 날짜 및 시간 생성
 date.setDate(date.getDate() - 1); // 1일을 뺌
 console.log(date0
 
+
 */
   const pad = (number) => String(number).padStart(2, '0');
 
