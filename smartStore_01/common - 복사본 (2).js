@@ -3,6 +3,8 @@ const axios = require('axios');
 const sql = require('mssql');
 const crypto = require('crypto');
 
+// 1111
+
 // 1. 설정 정보 (본인의 정보로 변경하세요)
 //const NAVER_API_URL = 'https://api.commerce.naver.com/external/v1/products/search';
 const NAVER_API_URL = 'https://api.commerce.naver.com/external';
